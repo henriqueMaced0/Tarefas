@@ -9,7 +9,10 @@ Para o projeto ficar bem completo, adicionei responsividade para dispositivos m�
 
 
 <h2 >📸 Demostração</h2>
-<img src="./readme/readme.gif" alt="demostração" height="425">
+
+<img src="https://user-images.githubusercontent.com/110493728/192896600-31c24608-4b8b-41c0-a964-0f1493619cca.png" alt="demostração" height="425">
+<img src="https://user-images.githubusercontent.com/110493728/192896600-31c24608-4b8b-41c0-a964-0f1493619cca.png" alt="demostração" height="425">
+<img src="https://user-images.githubusercontent.com/110493728/192896600-31c24608-4b8b-41c0-a964-0f1493619cca.png" alt="demostração" height="425">
 <hr>
 
 ### 🚀 Tecnologias
