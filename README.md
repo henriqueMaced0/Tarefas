@@ -2,7 +2,7 @@
 
 <h2 >💻 Sobre o projeto</h2>
 
-<p>Com sistema de cadastro e login,tem como objetivo gerencia sua agenda de tarafas,metas,anotações etc.O Your Tasks pode registra,edita e concluir.<br>
+<p>Com sistema de cadastro e login, tem como objetivo gerencia sua agenda de tarefas, metas, anotações, etc. O Your Tasks pode registrar, edita e concluir.
 Para o projeto ficar bem completo, adicionei responsividade para dispositivos móveis.<br>
 </p>
 
